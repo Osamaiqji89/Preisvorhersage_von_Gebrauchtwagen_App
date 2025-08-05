@@ -1,0 +1,29 @@
+# Python Cache-Dateien
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+.venv/
+.qodo/
+
+# IDE Dateien
+.vscode/
+.idea/
+
+# OS spezifische Dateien
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+analysebericht.txt
+
+# Umgebungsvariablen
+.env
+
+# Temporäre Dateien
+*.tmp
+*.temp
