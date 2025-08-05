@@ -284,5 +284,12 @@ Bei Fragen oder Problemen:
 - Streamlit Team für das großartige Web-Framework
 
 ---
+---
 
+## 🌐 Online-unter
+
+die Preisvorhersage direkt im Browser:  
+[🔗 Streamlit App – Gebrauchtwagen Preisvorhersage](https://preisvorhersagevongebrauchtwagenapp-t2vd4b6uebqqhtw5chlpq3.streamlit.app/#gebrauchtwagen-preisvorhersage)
+
+---
 **Made with ❤️ for Data Science Education**
