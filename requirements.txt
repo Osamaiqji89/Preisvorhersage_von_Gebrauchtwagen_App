@@ -1,0 +1,39 @@
+# Gebrauchtwagen-Preisvorhersage - Dependencies
+
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.2.0
+scipy>=1.9.0
+
+# Machine Learning Libraries
+xgboost>=1.7.0
+
+# Visualization Libraries
+matplotlib>=3.6.0
+seaborn>=0.11.0
+plotly>=5.15.0
+
+# Web Application Framework
+streamlit>=1.28.0
+
+# Testing Framework
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Jupyter Notebook Support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Data Processing Utilities
+openpyxl>=3.0.0  # Excel support for pandas
+xlsxwriter>=3.0.0  # Excel writing support
+
+# Optional: Advanced ML libraries
+# lightgbm>=3.3.0  # Alternative gradient boosting
+# catboost>=1.2.0  # Categorical boosting
+
+# Development Dependencies (optional)
+black>=22.0.0  # Code formatting
+flake8>=5.0.0  # Linting
+mypy>=1.0.0    # Type checking
